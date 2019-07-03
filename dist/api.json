@@ -16,7 +16,7 @@
     "files": {
     "ol": {
       "scripts": "showcoordinates.ol.min.js",
-      "styles": "showcoordinates.min.css"
+      "styles": "showcoordinates.ol.min.css"
     }
   },
   "metadata": {
