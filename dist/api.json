@@ -21,12 +21,12 @@
   },
   "metadata": {
     "name": "ShowCoordinates",
-    "description": "Shows selected map coordinates",
-    "text": "Shows selected coordinates on map",
+    "description": "Muestra coordenadas seleccionadas",
+    "text": "Este plugin te permite ver la coordenadas seleccionadas en el mapa.",
     "version": "1.0.0",
-    "date": "",
+    "date": "Jun 26, 2019",
     "author": "",
-    "org": "",
+    "org": "Instituto de Estadística y Cartografía",
     "tags": "mapea,plugin",
     "icon": "./facade/assets/icons/icons.svg"
   }
