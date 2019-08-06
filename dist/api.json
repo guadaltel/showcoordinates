@@ -13,7 +13,7 @@
       "position": 0
     }]
   }],
-    "files": {
+  "files": {
     "ol": {
       "scripts": "showcoordinates.ol.min.js",
       "styles": "showcoordinates.ol.min.css"
