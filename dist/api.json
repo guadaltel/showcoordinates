@@ -4,28 +4,24 @@
     "separator": "*"
   },
   "constructor": "M.plugin.ShowCoordinates",
-  "parameters": [
-    {
-      "type": "object",
-      "properties": [
-        {
-          "type": "enum",
-          "name": "position",
-          "possibleValues": [
-            "TR",
-            "TL",
-            "BL",
-            "BR"
-          ],
-          "position": 0
-        }
-      ]
-    }
-  ],
+  "parameters": [{
+    "type": "object",
+    "properties": [{
+      "type": "enum",
+      "name": "position",
+      "possibleValues": [
+        "TR",
+        "TL",
+        "BL",
+        "BR"
+      ],
+      "position": 0
+    }]
+  }],
   "files": {
     "ol": {
-      "scripts": "showcoordinates.ol.min.js",
-      "styles": "showcoordinates.ol.min.css"
+      "scripts": ["showcoordinates.ol.min.js"],
+      "styles": ["showcoordinates.ol.min.css"]
     }
   },
   "metadata": {
